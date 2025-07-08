@@ -2,13 +2,20 @@
 MyOwnRoadMap
 
 
-| Resourse |   Skill   |
-| :------  | :-------: |
-|  RFC     | Network   |
+| Resourse                   |        Skill      |
+| :------                    |      :-------:    |
+| :signal_strength: RFC      | Network           |
+| -                          | :snake: Python    |
 
 ---
 
-Usefull RFC list
+### Usefull Materials
+
+- [ ] [How to read articles](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+
+---
+
+### :signal_strength: Usefull RFC list
 
 **Base**
 
@@ -57,9 +64,6 @@ Meta RFC
 - [ ] BCP 95 - A Mission Statement for the IETF
 - [ ] RFC 8890 - The Internet is for End Users
 
-
 ---
 
-Usefull Materials
-
-- [ ] [How to read articles](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+### :snake: Python
